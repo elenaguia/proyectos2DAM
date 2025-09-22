@@ -25,16 +25,16 @@ Desarrollar un prototipo digital (app móvil o web app) que:
 
 
 Actividad en clase - 22/09/2025
-Tarea1. Realiza equipos de 2 – 4 alumnos.
-Tarea2. Dinámica de brainstorming, hablar y comentar posibles ideas y propuestas, organiza las ideas teniendo en cuenta los siguientes puntos.
-•	To do (problemas detectados).
-•	In progress (posibles soluciones).
-•	Done (solución seleccionada).
+1. Realiza equipos de 2 – 4 alumnos.
+2.  Dinámica de brainstorming, hablar y comentar posibles ideas y propuestas, organiza las ideas teniendo en cuenta los siguientes puntos.
+- 	To do (problemas detectados).
+- 	In progress (posibles soluciones).
+- 	 one (solución seleccionada).
 
-Tarea 3. Diseño y prototipado
-•	Investiga quién usará la aplicación, qué pasos dará. 
-•	Realiza un prototipo visual en Figma, Canva o Marvel App (no es necesario que sea funcional, basta una maqueta clicable).
-•	Investiga las tecnologías que se usaran
+3. Diseño y prototipado
+- Investiga quién usará la aplicación, qué pasos dará.
+- Realiza un prototipo visual en papel, se podrá utilizar aplicaciones como Figma, Canva o Marvel App (no es necesario que sea funcional, basta una maqueta clicable.
+- Investiga las tecnologías que se usaran
 o	Lenguajes de programación
  Frontend: HTML, IU con Python, Flutter o similar.
 Backend: Java, Python, PHP, Javascript
